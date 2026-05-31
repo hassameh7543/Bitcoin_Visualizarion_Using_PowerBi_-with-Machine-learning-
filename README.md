@@ -529,6 +529,7 @@ df = pd.read_csv(r"YOUR_PATH\Bitcoin-data.csv")
 ## 👤 Author
 
 **Author Name:** Hassan Mehmood
+
 **Project:** Bitcoin Price Forecasting with ARIMA & Linear Regression  
 **Tools:** Python, Jupyter Notebook, Power BI  
 **Date:** 29th May 2026
